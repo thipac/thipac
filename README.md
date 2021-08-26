@@ -1,4 +1,4 @@
-### Oi! Eu sou a Thiago Pacheco 👋
+### Oi! Eu sou Thiago Pacheco 👋
 
  <div>
   <a href="https://github.com/thipac">
