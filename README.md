@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/thipac">
-  <img height="180rem" width="390em" src="https://github-readme-stats.vercel.app/api?username=thipac&show_icons=true&theme=tokyonight"/>
-  <img height="180rem" width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thipac&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150rem"  src="https://github-readme-stats.vercel.app/api?username=thipac&show_icons=true&theme=tokyonight"/>
+  <img height="150rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thipac&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
